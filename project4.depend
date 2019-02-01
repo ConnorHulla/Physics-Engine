@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1523425713 source:c:\users\hulla\documents\programs\homework1337\project4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	"node.h"
+	"linkedlist.h"
+
+1523424470 c:\users\hulla\documents\programs\homework1337\project4\include\node.h
+	<fstream>
+
+1523425104 source:c:\users\hulla\documents\programs\homework1337\project4\src\node.cpp
+	"node.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1523424470 c:\users\hulla\documents\programs\homework1337\project4\include\linkedlist.h
+	"node.h"
+	<fstream>
+
+1523424470 source:c:\users\hulla\documents\programs\homework1337\project4\src\linkedlist.cpp
+	"linkedlist.h"
+	"node.h"
+	<iomanip>
+	<iostream>
+
